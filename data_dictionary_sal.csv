@@ -1,0 +1,25 @@
+column_name,description,source
+CumulativeEqs,Total number of earthquakes from Jan 1993 till date,"https://earthquake.usgs.gov/earthquakes/map/, http://ds.iris.edu/ieb/index.html?format=text&nodata=404&starttime=1970-01-01&endtime=2025-01-01&minmag=0&maxmag=10&mindepth=0&maxdepth=900&orderby=time-desc&limit=1000&maxlat=87.89&minlat=-87.89&maxlon=180.00&minlon=-180.00&zm=1&mt=ter
+"
+DisposalVolume,Amount of water injected into the subsurface formations (bbls),https://client.b3insight.com/?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e1VzZXJuYW1lOiJqcGEyMjc0QHV0ZXhhcy5lZHUiLCBJc0ltcGVyc29uYXRlZDoiRmFsc2UiLCBBY3R1YWxVc2VyTmFtZToianBhMjI3NEB1dGV4YXMuZWR1IiwgImNvbmZpZ0lkIjoiMTkxIiwiTG9naW5VUkwiOiJ3d3cuYjNpbnNpZ2h0LmNvbSIsIlRva2VuIElEICgxNS1kaWdpdCBudW1iZXIpIjoiMTI0NjM3MDkzMDQ2ODQ1In0.w3qZtow8v2VAM-3otruTm_gI80yPfVePwOELjfOC6uk
+CumDisposalVolume,Cumulative water disposal volume up until date (bbls),https://client.b3insight.com/?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e1VzZXJuYW1lOiJqcGEyMjc0QHV0ZXhhcy5lZHUiLCBJc0ltcGVyc29uYXRlZDoiRmFsc2UiLCBBY3R1YWxVc2VyTmFtZToianBhMjI3NEB1dGV4YXMuZWR1IiwgImNvbmZpZ0lkIjoiMTkxIiwiTG9naW5VUkwiOiJ3d3cuYjNpbnNpZ2h0LmNvbSIsIlRva2VuIElEICgxNS1kaWdpdCBudW1iZXIpIjoiMTI0NjM3MDkzMDQ2ODQ1In0.w3qZtow8v2VAM-3otruTm_gI80yPfVePwOELjfOC6uk
+ProducedGas,Produced gas from producing wells (mcf),https://info.drillinginfo.com/
+CumProducedGas,Cumulative produced gas from producing wells up until date (mcf),https://info.drillinginfo.com/
+ProducedOil,Produced oil from producing wells (bbls),https://info.drillinginfo.com/
+Cum_ProducedOil,Cumulative produced oil from producing wells up until date (bbls),https://info.drillinginfo.com/
+ProducedWater,Produced water from producing wells (bbls),https://info.drillinginfo.com/
+CumProducedWater,Cumulative produced water from producing wells up until date (bbls),https://info.drillinginfo.com/
+WellCount,Number of wells producing or injecting in the given month,https://info.drillinginfo.com/
+DomesticFlightsDFW,Total number of domestic flights arrival and departure per month,https://www.transtats.bts.gov/DL_SelectFields.asp
+InternationalFlightsDFW,Total number of international flights arrival and departure per month,https://www.transtats.bts.gov/Fields.asp
+TotalFlightsDFW,Total number of domestic and international flights,"https://www.transtats.bts.gov/DL_SelectFields.asp, https://www.transtats.bts.gov/Fields.asp"
+Precipitation,Amount of precipitation per month in mm,https://waterdatafortexas.org/lake-evaporation-rainfall
+Evaporation,Amount of evaporation per month in mm,https://waterdatafortexas.org/lake-evaporation-rainfall
+NetEvaporation,Difference in precipitation and evaporation levels,https://waterdatafortexas.org/lake-evaporation-rainfall
+GroundwaterLvlDiff,Difference in groundwater level from initial date of data entry,https://waterdatafortexas.org/groundwater
+ReservoirStorage,Water storage at measured lake elevation,https://waterdatafortexas.org/reservoirs/municipal/dallas
+ConservationStorage,Reservoir storage less the dead pool capacity,https://waterdatafortexas.org/reservoirs/municipal/dallas
+PercentFull,100 * conservation storage / conservation capacity,https://waterdatafortexas.org/reservoirs/municipal/dallas
+Date,Month and year,N/A
+eq_raw,Total number of earthquake of the particular month,"https://earthquake.usgs.gov/earthquakes/map/, http://ds.iris.edu/ieb/index.html?format=text&nodata=404&starttime=1970-01-01&endtime=2025-01-01&minmag=0&maxmag=10&mindepth=0&maxdepth=900&orderby=time-desc&limit=1000&maxlat=87.89&minlat=-87.89&maxlon=180.00&minlon=-180.00&zm=1&mt=ter
+"
