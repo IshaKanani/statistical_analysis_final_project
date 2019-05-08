@@ -6,7 +6,7 @@
 ### R code for all the methods available at: https://rstudio.cloud/project/303073
 
 Files and their description:
-1. Stats Project Data Gather - Sheet1_cum.csv: Master data file
+1. Stats Project Data GitHub.csv: Master data file
 2. data_dictionary_sal.csv - Data dictionary for the master data
 3. dfw_flights.ipynb - Python code used to gather monthly data for domestic and international flights at DFW
 4. project_testaccuracy.html - HTML output of the R code for all methods
